@@ -1,1 +1,16 @@
-The requested file reference is not currently visible. Use files.search or files.list to rediscover the file, then retry with a returned ref_id or file_id.
+[project]
+name = "retail-x"
+version = "1.0.0"
+description = "Policy-aware retail operations agent for the SDAIA Agentic AI capstone."
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi>=0.115",
+  "uvicorn[standard]>=0.32",
+  "pydantic>=2.9",
+  "python-dotenv>=1.0",
+  "openai>=1.60",
+  "mcp>=2.3",
+]
+
+[tool.uv]
+package = false
