@@ -32,7 +32,7 @@ Retail X is a policy-aware retail operations agent for safe order workflows. It 
 | Reproducibility | `.env.example`, `uv`, CI workflow, clean-clone check |
 
 
-## 🌱 Quick Start
+##  Quick Start
 
 > [!TIP]
 > Clone the repository, add your OpenRouter key, then run Retail X.
