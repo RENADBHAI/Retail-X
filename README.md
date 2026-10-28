@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="assets/retailx-banner.svg" alt="Retail X banner" width="100%" />
+  
 </p>
+<img width="945" height="496" alt="image" src="https://github.com/user-attachments/assets/72f54dec-048d-45c4-8780-2a89165962d1" />
+
 
 <p align="center">
   <img alt="Track" src="https://img.shields.io/badge/SDAIA%20Capstone-Track%202-6D28D9?style=for-the-badge" />
