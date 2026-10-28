@@ -1,1 +1,4 @@
-The requested file reference is not currently visible. Use files.search or files.list to rediscover the file, then retry with a returned ref_id or file_id.
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: evals__security_summary_csv>index,config,attack_success_rate,attack_block_rate,benign_success_rate
+0,baseline,1.0,0.0,0.0
+1,defended,0.0,1.0,1.0
