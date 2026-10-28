@@ -1,0 +1,13 @@
+config,category,passed,total,pass_rate
+A,adversarial,2,5,40.0
+A,invalid_identity,2,4,50.0
+A,multi_intent,5,5,100.0
+A,normal_multistep,6,6,100.0
+A,ownership_privacy,0,4,0.0
+A,policy_edge_case,6,6,100.0
+B,adversarial,4,5,80.0
+B,invalid_identity,4,4,100.0
+B,multi_intent,4,5,80.0
+B,normal_multistep,5,6,83.3
+B,ownership_privacy,1,4,25.0
+B,policy_edge_case,6,6,100.0
