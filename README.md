@@ -45,8 +45,7 @@ Retail X is a policy-aware retail operations agent for safe order workflows. It 
 > uv run server.py
 > ```
 >
-> **App:** http://127.0.0.1:8000  
-> **API health check:** http://127.0.0.1:8000/api/health
+
 
 ---
 
