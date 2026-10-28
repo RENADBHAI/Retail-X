@@ -5,17 +5,9 @@
 
 
 <p align="center">
-  <img alt="Track" src="https://img.shields.io/badge/SDAIA%20Capstone-Track%202-6D28D9?style=for-the-badge" />
-  <img alt="MCP" src="https://img.shields.io/badge/MCP-Enabled-0F766E?style=for-the-badge" />
-  <img alt="Human approval" src="https://img.shields.io/badge/Human%20Approval-Required%20for%20Writes-EA580C?style=for-the-badge" />
 </p>
 <p align="center">
-  <img alt="Evaluation" src="https://img.shields.io/badge/Eval-80%25-2563EB?style=flat-square" />
-  <img alt="Improvement" src="https://img.shields.io/badge/A%E2%86%92B-%2B10%20pp-16A34A?style=flat-square" />
-  <img alt="Security" src="https://img.shields.io/badge/Defended%20Attack%20Success-0%25-059669?style=flat-square" />
-  <img alt="Tasks" src="https://img.shields.io/badge/Eval%20Tasks-30-F59E0B?style=flat-square" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-FastAPI-3776AB?style=flat-square" />
-  <img alt="React" src="https://img.shields.io/badge/UI-React%20%2B%20Vite-7C3AED?style=flat-square" />
+  
 </p>
 
 # Retail X
