@@ -1,0 +1,12 @@
+Retail X local smoke test
+=========================
+
+Tested with a small synthetic Retail fixture using the same tau2-bench schema.
+
+PASS  GET  /api/health -> 200
+PASS  GET  / -> prebuilt Retail X interface served
+PASS  GET  /api/demo-case -> valid pending-order demo
+PASS  POST /api/agent -> identity/order/policy flow returned requires_approval=true
+PASS  POST /api/approval -> approved write changed working order status from pending to cancelled
+
+The smoke test intentionally ran without an API key to verify that the deterministic fallback path remains usable. The submitted runtime supports OpenRouter when OPENROUTER_API_KEY is configured in .env.
