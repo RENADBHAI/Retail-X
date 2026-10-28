@@ -37,9 +37,6 @@ Retail X is a policy-aware retail operations agent for safe order workflows. It 
 | Human oversight | Explicit approval required before write actions |
 | Reproducibility | `.env.example`, `uv`, CI workflow, clean-clone check |
 
-<p align="center">
-  <img src="artifacts/demo.png" alt="Retail X demo" width="92%" />
-</p>
 
 ## Quick start
 
@@ -337,9 +334,13 @@ Retail-X/
 │   ├── security_redteam.csv
 │   └── security_summary.csv
 ├── artifacts/
-│   └── demo.png
+│   └── SMOKE_TEST.txt
 ├── scripts/
 │   └── clean_clone_check.py
+├── slides/
+│   ├── SLIDES.md
+│   ├── SPEAKER_NOTES.md
+│   └── README.md
 └── .github/workflows/ci.yml
 ```
 
@@ -352,7 +353,7 @@ Retail-X/
 - `uv`
 - an OpenRouter API key
 
-The Python application is reproducible with `uv`. The React interface source is included in `src/` and can be built with Node.js when the UI is needed. The Colab demo notebook also provides the tested live-interface workflow used during development.
+The Python application is reproducible with `uv`. The React interface source is included in `src/` and can be built with Node.js when the UI is needed. The tested Colab demo workflow is preserved in Notebook 08, and the presentation source is included in `slides/SLIDES.md`.
 
 ### 1. Clone the repository
 
