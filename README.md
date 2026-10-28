@@ -32,18 +32,21 @@ Retail X is a policy-aware retail operations agent for safe order workflows. It 
 | Reproducibility | `.env.example`, `uv`, CI workflow, clean-clone check |
 
 
-## Quick start
+## 🌱 Quick Start
 
-```bash
-git clone https://github.com/RENADBHAI/Retail-X.git
-cd Retail-X
-cp .env.example .env
-# add OPENROUTER_API_KEY to .env
-uv sync
-uv run server.py
-```
-
-Then open `http://127.0.0.1:8000` for the app or `http://127.0.0.1:8000/api/health` for the API health check.
+> [!TIP]
+> Clone the repository, add your OpenRouter key, then run Retail X.
+>
+> ```bash
+> git clone https://github.com/RENADBHAI/Retail-X.git
+> cd Retail-X
+> cp .env.example .env
+> uv sync
+> uv run server.py
+> ```
+>
+> **App:** http://127.0.0.1:8000  
+> **API health check:** http://127.0.0.1:8000/api/health
 
 ---
 
