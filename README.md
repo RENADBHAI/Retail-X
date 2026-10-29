@@ -6,7 +6,6 @@
 **Team:** Renad Hazazi  
 **Course:** SDAIA Academy — Agentic AI Systems Engineering Capstone  
 https://github.com/SDAIAAcademy/agentic-ai/tree/main/labs/capstone
-**Model:** OpenRouter runtime; Gemini 3.5 Flash Lite was used for the saved evaluation runs.
 
 Retail X is a retail operations agent that handles order requests through a controlled multi-step workflow. It verifies the customer, checks order ownership, retrieves the relevant policy, makes a decision, and requires human approval before any write action.
 
